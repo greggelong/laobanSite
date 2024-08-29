@@ -14,7 +14,7 @@ let bkw;
 let talking = false;
 let cbard;
 function preload() {
-  story = loadStrings("site2.txt");
+  story = loadStrings("site3.txt");
   //story = loadStrings("site.txt");
 }
 
