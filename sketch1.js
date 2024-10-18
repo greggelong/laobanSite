@@ -55,7 +55,8 @@ function draw() {
   );
   fill(255, 0, 0);
   x = width; // to start set x at width
-  let mywords = split(story[myline], " ");
+  let mywords = split(story[myline], "");  // need to split for chinese
+  //print(mywords.length)
   //print(mywords, myline);
   for (let i = 0; i < mywords.length; i++) {
     textSize(height - 60);
