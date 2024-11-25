@@ -3,7 +3,7 @@
 a
 I am using P5js and p5 speech
 
-https://greggelong.github.io//laobanSite/
+https://greggelong.github.io/laobanSite/
 
 ce swap instructions is the bricks
 
