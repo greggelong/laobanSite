@@ -1,10 +1,9 @@
-# raven2
+# AI laoban for the Ruins site performance
 
-a model app for memorizing texts in in English and Chinese
-
+a
 I am using P5js and p5 speech
 
-https://greggelong.github.io/raven2/
+https://greggelong.github.io//laobanSite/
 
 ce swap instructions is the bricks
 
